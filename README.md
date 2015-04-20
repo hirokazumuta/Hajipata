@@ -1,2 +1,2 @@
-# Hajipata
-# Hajipata
+はじパタ11章の資料です。
+決定木・ランダムフォレストをpython/scikit-learnを使って実行してみました。
